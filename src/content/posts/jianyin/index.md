@@ -13,4 +13,4 @@ image: "./cover.jpeg"
 自己的项目，感兴趣的可以看看
 
 
-::github{repo="qianqianhhh2/jianyin"}
+::github{repo="qianqianhhh3/jianyin"}
